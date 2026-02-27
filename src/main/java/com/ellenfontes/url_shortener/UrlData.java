@@ -1,4 +1,4 @@
-package com.rocketseat.createUrlShortner;
+package com.ellenfontes.url_shortener;
 
 
 import lombok.AllArgsConstructor;
@@ -9,5 +9,4 @@ import lombok.Data;
 public class UrlData {
     private String originalUrl;
     private long expirationTime;
-
 }
